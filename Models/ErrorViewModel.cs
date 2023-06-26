@@ -1,4 +1,4 @@
-namespace _.Models;
+namespace ASPToDoList.Models;
 
 public class ErrorViewModel
 {

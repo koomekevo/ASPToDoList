@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eoYqQhjFDexVjWQ9qcQLyxCnIjLhQuyMZguyykLjQSpsMJPlRSeHCP+cN4O4SnGH63kTZxQOiu1/wHopOqm+Kw==",
+  "dgSpecHash": "6416jhoZQWP92WPlP8I4DUjfLxdb9BdZTMVpWYajFPHqhOfNmknfkBCbzx1TfvTSCazAMyNSLnFpmWLCHQO+SA==",
   "success": true,
-  "projectFilePath": "/home/kevinkoome/SoloProjects/ASPToDoList/..csproj",
+  "projectFilePath": "/home/kevinkoome/SoloProjects/ASPToDoList/ASPToDoList.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

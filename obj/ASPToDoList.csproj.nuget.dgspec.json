@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/home/kevinkoome/SoloProjects/ASPToDoList/..csproj": {}
+    "/home/kevinkoome/SoloProjects/ASPToDoList/ASPToDoList.csproj": {}
   },
   "projects": {
-    "/home/kevinkoome/SoloProjects/ASPToDoList/..csproj": {
+    "/home/kevinkoome/SoloProjects/ASPToDoList/ASPToDoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kevinkoome/SoloProjects/ASPToDoList/..csproj",
-        "projectName": ".",
-        "projectPath": "/home/kevinkoome/SoloProjects/ASPToDoList/..csproj",
+        "projectUniqueName": "/home/kevinkoome/SoloProjects/ASPToDoList/ASPToDoList.csproj",
+        "projectName": "ASPToDoList",
+        "projectPath": "/home/kevinkoome/SoloProjects/ASPToDoList/ASPToDoList.csproj",
         "packagesPath": "/home/kevinkoome/.nuget/packages/",
         "outputPath": "/home/kevinkoome/SoloProjects/ASPToDoList/obj/",
         "projectStyle": "PackageReference",
